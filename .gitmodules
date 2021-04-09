@@ -1,0 +1,3 @@
+[submodule "third_party/second.pytorch"]
+	path = third_party/second.pytorch
+	url = https://github.com/traveller59/second.pytorch

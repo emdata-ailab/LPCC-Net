@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Pycharm project files
+.idea/
+
+# Experiment results
+/results/*
+!/results/readme.txt
+
+# External config files
+/configs/dataset/*
+/configs/model/*
+/configs/train/*
+!base.config
