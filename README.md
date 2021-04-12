@@ -28,7 +28,7 @@ We propose two loss functions to semi-supervise the network.
 
 ## Evaluation Results
 - Improved 3D AP (%) of off-the-shelf 3D object detectors on KITTI 3D detection’s val
-<img src='./docs/detection_methods_compare.png' width=400>
+<img src='./docs/detection_methods_compare.png' width=600>
 
 - Comparison with depth completion methods on KITTI 3D detection’s val
 <img src='./docs/completion_methods_compare.png' width=400>
