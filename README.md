@@ -33,22 +33,23 @@ We propose two loss functions to semi-supervise the network.
 ### Perspective projection constraint loss
 <img src='./docs/loss_p.png' width=260>
 
-**Joint optimization**.    
+### Joint optimization    
 The Total loss function in our work is as follows:
+
 <img src='./docs/total_loss.png' wodth=200>
 
 ## Evaluation Results
 
-### Improved 3D AP (%) of off-the-shelf 3D object detectors on KITTI 3D detection’s val
+- ### Improved 3D AP (%) of off-the-shelf 3D object detectors on KITTI 3D detection’s val
 <img src='./docs/detection_methods_compare.png' width=1000>
 
-### Comparison with depth completion methods on KITTI 3D detection’s val
+- ### Comparison with depth completion methods on KITTI 3D detection’s val
 <img src='./docs/completion_methods_compare.png' width=400>
 
-### Quantitive comparison of the completion quality
+- ### Quantitive comparison of the completion quality
 <img src='./docs/quantitive_compare.png' width=400>
 
-### Effectiveness of RGB and LiDAR information
+- ### Effectiveness of RGB and LiDAR information
 <img src='./docs/effect.png' width=400>
 
 ## Visualization
