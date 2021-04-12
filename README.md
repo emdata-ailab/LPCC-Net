@@ -26,18 +26,18 @@ Projection and grouping of voxels in the semi-dense labeled focal loss. Voxels t
 We propose two loss functions to semi-supervise the network.
 
 ### Semi-dense labeled focal loss  
-<img src='./docs/loss_f.png' width=400>
+<img src='./docs/loss_f.png' width=300>
 
 ### Perspective projection constraint loss
-<img src='./docs/loss_p.png' width=400>
+<img src='./docs/loss_p.png' width=300>
 
 **Joint optimization**. The Total loss function in our work is as follows:
-<img src='./docs/total_loss.png' wodth=400>
+<img src='./docs/total_loss.png' wodth=200>
 
 ## Evaluation Results
 
 ### Improved 3D AP (%) of off-the-shelf 3D object detectors on KITTI 3D detection’s val
-<img src='./docs/detection_methods_compare.png' width=600>
+<img src='./docs/detection_methods_compare.png' width=800>
 
 ### Comparison with depth completion methods on KITTI 3D detection’s val
 <img src='./docs/completion_methods_compare.png' width=400>
