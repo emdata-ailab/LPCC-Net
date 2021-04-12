@@ -62,6 +62,10 @@ The Total loss function in our work is as follows:
 
 <img src='./docs/vis_.png' width=600>
 
+## Get Started 
+Support python 3.6+, pytorch 1.3.0+. Tested in Ubuntu 16.04
+Our code can be ran easily, For futher training and testing tasks, please reference to the code details or provide your issues.
+
 ## Citation
 Please cite the following reference if you feel our work is useful to your research.
 ```
