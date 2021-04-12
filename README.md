@@ -20,6 +20,7 @@ coordinates. We randomly sample equidistant rows of scan lines and project them 
 ## Projection and grouping
 
 Projection and grouping of voxels in the semi-dense labeled focal loss. Voxels that are projected to the same pixel belong to the same group.
+
 <img src='./docs/p_g.png' width=600>
 
 ## Loss Function for Completion
