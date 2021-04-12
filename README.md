@@ -15,30 +15,34 @@ coordinates. We randomly sample equidistant rows of scan lines and project them 
 <img src='./docs/gene.png' width=600>
 
 ## Loss Function for Completion
-We propose two loss functions, namely semi-dense labeled focal loss and perspective projection constraint loss to semi-supervise the network.
+We propose two loss functions to semi-supervise the network.
 
+- Semi-dense labeled focal loss  
 <img src='./docs/loss_f.png' width=400>
 
+- Perspective projection constraint loss
 <img src='./docs/loss_p.png' width=400>
 
 **Joint optimization**. The Total loss function in our work is as follows:
 <img src='./docs/total_loss.png' wodth=400>
 
 ## Evaluation Results
--Improved 3D AP (%) of off-the-shelf 3D object detectors on KITTI 3D detection’s val
+- Improved 3D AP (%) of off-the-shelf 3D object detectors on KITTI 3D detection’s val
 <img src='./docs/detection_methods_compare.png' width=400>
 
--Comparison with depth completion methods on KITTI 3D detection’s val
+- Comparison with depth completion methods on KITTI 3D detection’s val
 <img src='./docs/completion_methods_compare.png' width=400>
 
--Quantitive comparison of the completion quality
+- Quantitive comparison of the completion quality
 <img src='./docs/quantitive_compare.png' width=400>
 
 ## Visualization
 Visual illustration of our completion results on the validation set of the created completion dataset. The blue shade in the second column represents the expanded area.
+
 <img src=' ./docs/vis1.png' width=400>
 
 Qualitative comparison between the depth completion methods and our proposed method.
+
 <img src=' ./docs/vis2.png' width=400>
 
 ## Citation
