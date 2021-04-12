@@ -26,17 +26,17 @@ Projection and grouping of voxels in the semi-dense labeled focal loss. Voxels t
 
 We propose two loss functions to semi-supervise the network.
 
-### Semi-dense labeled focal loss  
-<img src='./docs/loss_f.png' width=260>
+- ### Semi-dense labeled focal loss  
+<img src='./docs/loss_f.png' width=295>
 
 
-### Perspective projection constraint loss
-<img src='./docs/loss_p.png' width=260>
+- ### Perspective projection constraint loss
+<img src='./docs/loss_p.png' width=295>
 
-### Joint optimization    
+- ### Joint optimization    
 The Total loss function in our work is as follows:
 
-<img src='./docs/total_loss.png' wodth=200>
+<img src='./docs/total_loss.png' wodth=160>
 
 ## Evaluation Results
 
