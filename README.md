@@ -39,11 +39,11 @@ We propose two loss functions to semi-supervise the network.
 ## Visualization
 Visual illustration of our completion results on the validation set of the created completion dataset. The blue shade in the second column represents the expanded area.
 
-<img src=' ./docs/vis1.png' width=400>
+<img src='./docs/vis.png' width=400>
 
 Qualitative comparison between the depth completion methods and our proposed method.
 
-<img src=' ./docs/vis2.png' width=400>
+<img src='./docs/vis_.png' width=400>
 
 ## Citation
 Please cite the following reference if you feel our work is useful to your research.
