@@ -36,7 +36,7 @@ We propose two loss functions to semi-supervise the network.
 - ### Joint optimization    
 The Total loss function in our work is as follows:
 
-<img src='./docs/total_loss.png' wodth=160>
+<img src='./docs/total_loss.png' wodth=80>
 
 ## Evaluation Results
 
@@ -56,11 +56,11 @@ The Total loss function in our work is as follows:
 
 - Visual illustration of our completion results on the validation set of the created completion dataset. The blue shade in the second column represents the expanded area.
 
-<img src='./docs/vis.png' width=400>
+<img src='./docs/vis.png' width=600>
 
 - Qualitative comparison between the depth completion methods and our proposed method.
 
-<img src='./docs/vis_.png' width=400>
+<img src='./docs/vis_.png' width=600>
 
 ## Citation
 Please cite the following reference if you feel our work is useful to your research.
