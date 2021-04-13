@@ -84,7 +84,7 @@ Please cite the following reference if you feel our work is useful to your resea
 For any question, please file an issue or contact
 
 ```
-Yufei Wei (Shanghai Em-Data Technology Co., Ltd.) yufei.wei@gmail.com
+Yufei Wei (Shanghai Em-Data Technology Co., Ltd.) yufei.wei0217@gmail.com
 Yao Xiao (Shanghai Em-Data Technology Co., Ltd.) xiaoyao@em-data.com.cn
 Yibo Guo (Shanghai Em-Data Technology Co., Ltd.) guoyibo@em-data.com.cn
 Shichao Liu (Shanghai Em-Data Technology Co., Ltd.) shichao.liu@gmail.com
