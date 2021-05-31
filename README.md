@@ -87,6 +87,6 @@ For any question, please file an issue or contact
 Yufei Wei (Shanghai Em-Data Technology Co., Ltd.) yufei.wei0217@gmail.com
 Yao Xiao (Shanghai Em-Data Technology Co., Ltd.) xiaoyao@em-data.com.cn
 Yibo Guo (Shanghai Em-Data Technology Co., Ltd.) guoyibo@em-data.com.cn
-Shichao Liu (Shanghai Em-Data Technology Co., Ltd.) shichao.liu@gmail.com
+Shichao Liu (Shanghai Em-Data Technology Co., Ltd.) liushichao0601@gmail.com
 Lin Xu (Shanghai Em-Data Technology Co., Ltd.) lin.xu5470@gmail.com
 ```
